@@ -1,3 +1,6 @@
+## 若出现调整参数和配置问题，可参考以下博客链接
+https://blog.csdn.net/xmy306538517/article/details/81122663
+
 # B(erkeley) L(ocalization) A(nd) M(apping)!
 
 ![alt text](https://github.com/erik-nelson/blam/raw/master/blam_mosaic.png)
